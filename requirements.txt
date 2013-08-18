@@ -3,7 +3,6 @@ Fabric==1.7.0
 GnuPGInterface==0.3.2
 MarkupSafe==0.15
 MySQL-python==1.2.3
-NINJA-IDE==2.2-dev
 PAM==0.4.2
 PIL==1.1.7
 PyOpenGL==3.0.1b2
