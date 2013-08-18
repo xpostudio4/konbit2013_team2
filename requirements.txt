@@ -1,0 +1,9 @@
+Fabric==1.7.0
+argparse==1.2.1
+distribute==0.6.24
+lockfile==0.9.1
+paramiko==1.11.0
+pycrypto==2.6
+python-daemon==1.6
+schedule==0.1.11
+wsgiref==0.1.2

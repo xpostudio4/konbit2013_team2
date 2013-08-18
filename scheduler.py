@@ -2,8 +2,6 @@ import schedule
 import time
 from fabric.api import local, settings, abort, run, cd
 from commands import getstatusoutput
-def job():
-	print('I am working... ')
 
 def get_gammu_sms():
 	"""The purpose of this function is to connect to the cellphone and get all the sms's and sent them to an url, also the message must be printed on the screen"""
