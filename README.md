@@ -1,4 +1,8 @@
- Detalle aplicacion de SMS
+Konbit2013
+----------
+Details of a small app created for a Haiti/Dominican Republic Cooperation Hackaton in 2013.
+
+Detalle aplicacion de SMS
 
 Mensaje a Voz
 1.- Se utiliza el celular como gateway para recibir los mensajes (SMS) con ushahidi   (http://smssync.ushahidi.com/).
@@ -11,5 +15,3 @@ Mensaje a Voz
 
 Voz a mensaje?
 
-def message_processing(request, message, send_to, send_from, purpose):
-	"""The purpose of this function is to process the information of the message
